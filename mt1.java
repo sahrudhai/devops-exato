@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/*class demo1{
+class demo1{
     void fun1() throws Exception
     {
         System.out.println("Addition task started");
@@ -12,7 +12,7 @@ import java.util.Scanner;
         int num = num1 + num2;
         System.out.println(num);
     }
-}*/
+}
 
 class demo2{
     void fun2() throws Exception
